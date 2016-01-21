@@ -28,9 +28,7 @@ At the top of your `main.scss` file, just import any of the following:
 ```scss
 @import "bourbon";
 @import "neat";
-
 @import "foundation";
-
 @import "font-awesome";
 ```
 
